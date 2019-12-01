@@ -1,0 +1,23 @@
+.user-set-btn {
+	width: 100%;
+	margin: 20upx 0;
+	background: #FFE933;
+	border:0;
+	color:#333333;
+}
+
+.user-set-btn-disable {
+	background: #F4F4F4!important;
+	border: 1upx solid #EEEEEE!important;
+	color:#909090!important;
+}
+
+.common-input{
+	font-size: 30upx;
+	width: 350upx;
+	margin: 20upx 0;
+}
+
+.body {
+	padding: 0 20upx;
+}
